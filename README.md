@@ -3,6 +3,9 @@
 This is a Laravel 12 application that acts as an SSO client, using the central SSO Server for user authentication via OAuth 2.0 and Laravel Passport.  
 It provides a seamless login experience by integrating with the shared authentication system used across multiple applications.
 
+This project using:
+-Laravel 12 (PHP 8.2+)
+
 ### Step 1: Clone the repository
 
 ```bash
