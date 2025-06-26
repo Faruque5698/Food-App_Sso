@@ -32,6 +32,8 @@ php artisan key:generate
 Edit the `.env` file to set your database connection details:
 
 ```env
+APP_URL="http://localhost"
+
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
